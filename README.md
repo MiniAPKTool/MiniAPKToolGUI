@@ -44,7 +44,7 @@ https://www.oracle.com/java/technologies/downloads/
 
 
 <br /><br /><h2 align="center"><b>Important inforamtion</b></h2>
-The path where the program is located must not contain non-English letters or spaces.
+The path where the program , APK-file or project folder is located must not contain non-English letters or spaces.
 
 
 <br /><br /><h2 align="center"><b>💳 Please support my projects! 🤗 Thx.!!!</b></h2>
