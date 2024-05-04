@@ -32,7 +32,7 @@ Just click "Win+R" , tap "cmd" and click "ok", in opened cmd-window tap "javac" 
 If you see "javac is not recognized as an internal or external command", you have to install JDK Development Kit.
 
 <ins>Where can I find JDK Development Kit?</ins><br />
-It should look somethink like this "jdk-21_windows-x64_bin.exe"<br />
+It should look for somethink like this "jdk-21_windows-x64_bin.exe"<br />
 https://www.oracle.com/java/technologies/downloads/
 
 
